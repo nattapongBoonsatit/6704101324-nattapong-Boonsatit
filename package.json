@@ -1,31 +1,22 @@
 {
-  "name": "quasar-project",
-  "version": "0.0.1",
-  "description": "A Quasar Project",
-  "productName": "Quasar App",
-  "author": "nattapongBoonsatit <makzxzx25@gmail.com>",
-  "type": "module",
-  "private": true,
-  "scripts": {
-    "test": "echo \"No test specified\" && exit 0",
-    "dev": "quasar dev",
-    "build": "quasar build",
-    "postinstall": "quasar prepare"
+  "name": "6704101324",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nattapongBoonsatit/6704101324-nattapong-Boonsatit.git"
   },
-  "dependencies": {
-    "@quasar/extras": "^1.16.4",
-    "quasar": "^2.16.0",
-    "vue": "3.5.20",
-    "vue-router": "^4.0.0"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nattapongBoonsatit/6704101324-nattapong-Boonsatit/issues"
   },
+  "homepage": "https://github.com/nattapongBoonsatit/6704101324-nattapong-Boonsatit#readme",
   "devDependencies": {
-    "@quasar/app-vite": "^2.1.0",
-    "autoprefixer": "^10.4.2",
-    "postcss": "^8.4.14"
-  },
-  "engines": {
-    "node": "^28 || ^26 || ^24 || ^22 || ^20",
-    "npm": ">= 6.13.4",
-    "yarn": ">= 1.21.1"
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.7.0"
   }
 }
