@@ -1,0 +1,22 @@
+{
+  "name": "6704101324",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nattapongBoonsatit/6704101324-nattapong-Boonsatit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nattapongBoonsatit/6704101324-nattapong-Boonsatit/issues"
+  },
+  "homepage": "https://github.com/nattapongBoonsatit/6704101324-nattapong-Boonsatit#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.7.0"
+  }
+}
